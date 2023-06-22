@@ -1,0 +1,1 @@
+# stars-03-spatial-data-template
